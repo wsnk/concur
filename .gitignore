@@ -1,0 +1,5 @@
+bin/*
+proj/*.user
+**/build-*
+**/build/*
+!build/CMakeLists.txt
